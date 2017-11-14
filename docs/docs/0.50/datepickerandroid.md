@@ -31,9 +31,9 @@ try {
                 <li><code>maxDate</code> (<code>Date</code>对象或毫秒时间戳) - 可选的最大日期</li>
                 <li><code>mode</code> (<code>(enum('calendar', 'spinner', 'default')</code>) -  设置选择器的模式：
                     <ul>
-                    <li><code>calendar</code>: Show a date picker in calendar mode.</li>
-                    <li><code>spinner</code>: Show a date picker in spinner mode.</li>
-                    <li><code>default</code>: Show a default native date picker(spinner/calendar) based on android versions.</li>
+                    <li><code>calendar</code>: 在日历模式中显示日期选择器。</li>
+                    <li><code>spinner</code>: 在下拉列表模式中显示一个日期选择器。</li>
+                    <li><code>default</code>: 显示一个基于android版本的默认本地日期选择器(spinner / calendar)。</li>
                     </ul>
                 </li>
             </p>
